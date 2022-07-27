@@ -1,4 +1,4 @@
-# webserialapi_andarduinocode1
+# webserialapi
 in web page it's suported by chrome
 
 in arduino code there is some step before run code 
